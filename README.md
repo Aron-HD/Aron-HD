@@ -12,6 +12,8 @@ I am passionate about learning new technologies and using them to build apps, co
 [<img align="left" alt="Aron-HD | LinkedIn" style="svg {fill: white}" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aron-HD | Slack" style="svg {fill: white}" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />][slack]
 
+</br>
+
 ### Technologies
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
