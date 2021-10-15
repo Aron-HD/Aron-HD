@@ -33,6 +33,10 @@ I am passionate about learning new technologies and using them to build apps, co
 
 </br>
 
+![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aron-HD&show_icons=true&theme=dark&count_private=true&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-HD&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Aron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aronhd&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 ---
 
 ### Recent activity
@@ -49,40 +53,11 @@ I am passionate about learning new technologies and using them to build apps, co
 <!--END_SECTION:activity-->
 
 </br>
+</br>
 
-<!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-⌚︎ Time Zone: Europe/London
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   9 repos             ███████████████░░░░░░░░░░   60.0% 
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
-
-```
-
-
-
- Last Updated on 15/10/2021
-<!--END_SECTION:waka-->
+[website]: https://aronhd.com
+[linkedin]: https://linkedin.com/aron-hd
+[slack]: https://aron-hd.slack.com
 
 <!--
 </br>
@@ -175,7 +150,7 @@ Shell                    1 repo              █░░░░░░░░░░�
 
 ---
 
-<!-- <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
@@ -187,13 +162,6 @@ Shell                    1 repo              █░░░░░░░░░░�
 <img align="left" alt="SQLite" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/sqlite/sqlite.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/django/django.png" />
 <img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" /> -->
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 -->
-
-</br>
-</br>
-
-[website]: https://aronhd.com
-[linkedin]: https://linkedin.com/aron-hd
-[slack]: https://aron-hd.slack.com
