@@ -1,14 +1,17 @@
-## Hi, I'm Aron
+<p align="center">
+    <a href="https://aronhd.com">
+        <img height="100" width="100" src="my-logo.svg" alt="aronhd.com" />
+    </a>
+</p>
 
-I am passionate about learning new technologies and using them to build apps, command-line tools and websites, automate processes and problem solve.
+- I am passionate about learning new technologies and using them to build apps, command-line tools and websites, automate processes and problem solve.
+- Front and Backend
 
 </br>
 
 ### Connect
 
 </br>
-
-<!-- [<img height="32" width="32" src="my-logo.svg" />][website] -->
 
 [<img align="left" alt="aronhd.com" style="svg {fill: white}" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aron-HD | LinkedIn" style="svg {fill: white}" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
