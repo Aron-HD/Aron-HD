@@ -4,24 +4,15 @@
     </a>
 </p>
 
-- I am passionate about learning new technologies and using them to build apps, command-line tools and websites, automate processes and problem solve.
-- Front and Backend
-
-</br>
+I am passionate about learning new technologies and using them to build apps, command-line tools and websites, automate processes and problem solve.
 
 ### Connect
-
-</br>
 
 [<img align="left" alt="aronhd.com" style="svg {fill: white}" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Aron-HD | LinkedIn" style="svg {fill: white}" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aron-HD | Slack" style="svg {fill: white}" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />][slack]
 
-</br>
-
 ### Technologies
-
-</br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -34,11 +25,26 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 
-</br>
+<table>
+    <thead>
+        <tr>
+            <th>
+                <a href="https://github.com/anuraghazra/github-readme-stats">
+                    <img align="center" alt="Aron's github stats" src="https://github-readme-stats.vercel.app/api?username=Aron-HD&amp;show_icons=true&amp;include_all_commits=true&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
+                </a>
+            </th>
+            <th>
+                <a href="https://github.com/anuraghazra/github-readme-stats">
+                    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-HD&amp;layout=compact&amp;theme=dark&amp;hide_border=true" style="max-width: 100%;">
+                </a>
+            </th>
+        </tr>
+    </thead>
+</table>
 
-![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aron-HD&show_icons=true&theme=dark&count_private=true&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-HD&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Aron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aronhd&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aron-HD&show_icons=true&theme=dark&count_private=true&hide=contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-HD&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Aron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aronhd&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
 
