@@ -21,6 +21,7 @@
 </br>
 
 <!--START_SECTION:activity-->
+
 1. 🎉 Merged PR [#1](https://github.com/Aron-HD/joshhd-portfolio/pull/1) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
 2. 💪 Opened PR [#1](https://github.com/Aron-HD/joshhd-portfolio/pull/1) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
 3. 🎉 Merged PR [#40](https://github.com/Aron-HD/personal-website/pull/40) in [Aron-HD/personal-website](https://github.com/Aron-HD/personal-website)
@@ -38,8 +39,8 @@
 
 </br>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </br>
 
