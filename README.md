@@ -6,9 +6,11 @@
 
 </br>
 
-[<img height="32" width="32" src="my-logo.svg" />][website]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
-[<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />][slack]
+<!-- [<img height="32" width="32" src="my-logo.svg" />][website] -->
+
+[<img align="left" alt="aronhd.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Aron-HD | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Aron-HD | Slack" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/slack.svg" />][slack]
 
 </br>
 
