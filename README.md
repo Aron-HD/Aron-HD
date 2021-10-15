@@ -51,79 +51,37 @@ I am passionate about learning new technologies and using them to build apps, co
 </br>
 
 <!--START_SECTION:waka-->
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.2%20million%20lines%20of%20code-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
-**🐱 My GitHub Data**
-
-> 🏆 539 Contributions in the Year 2021
->
-> 📦 161.2 kB Used in GitHub's Storage
->
-> 🚫 Not Opted to Hire
->
-> 📜 14 Public Repositories
->
-> 🔑 2 Private Repositories
->
-> **I'm a Night 🦉**
-
-```text
-🌞 Morning    29 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   5.21%
-🌆 Daytime    199 commits    █████████░░░░░░░░░░░░░░░░   35.73%
-🌃 Evening    241 commits    ██████████░░░░░░░░░░░░░░░   43.27%
-🌙 Night      88 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.8%
-
-```
-
-📅 **I'm Most Productive on Friday**
-
-```text
-Monday       54 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.69%
-Tuesday      69 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.39%
-Wednesday    95 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.06%
-Thursday     128 commits    █████░░░░░░░░░░░░░░░░░░░░   22.98%
-Friday       144 commits    ██████░░░░░░░░░░░░░░░░░░░   25.85%
-Saturday     19 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
-Sunday       48 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.62%
-
-```
-
-📊 **This Week I Spent My Time On**
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Europe/London
 
-💬 Programming Languages:
+💬 Programming Languages: 
 No Activity Tracked This Week
 
-🔥 Editors:
+🔥 Editors: 
 No Activity Tracked This Week
 
-🐱‍💻 Projects:
-No Activity Tracked This Week
-
-💻 Operating System:
+🐱‍💻 Projects: 
 No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in Python**
+**I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ███████████████░░░░░░░░░░   60.0%
-JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67%
-HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
+Python                   9 repos             ███████████████░░░░░░░░░░   60.0% 
+JavaScript               4 repos             ██████░░░░░░░░░░░░░░░░░░░   26.67% 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67% 
 Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
 
-**Timeline**
 
-![Chart not found](https://raw.githubusercontent.com/Aron-HD/Aron-HD/master/charts/bar_graph.png)
 
-Last Updated on 15/10/2021
-
+ Last Updated on 15/10/2021
 <!--END_SECTION:waka-->
 
 <!--
