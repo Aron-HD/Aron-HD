@@ -49,7 +49,7 @@ I am passionate about learning new technologies and using them to build apps, co
 
 <!-- ![Aron's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aron-HD&show_icons=true&theme=dark&count_private=true&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aron-HD&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- [![Aron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aronhd&theme=dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Aron's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=aronhd&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
