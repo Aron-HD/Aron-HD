@@ -59,11 +59,11 @@ I am passionate about learning new technologies and using them to build apps, co
 
 <!--START_SECTION:activity-->
 
-1. ❗️ Opened issue [#3](https://github.com/Aron-HD/joshhd-portfolio/issues/3) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-2. ❗️ Opened issue [#2](https://github.com/Aron-HD/joshhd-portfolio/issues/2) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-3. ❗️ Opened issue [#41](https://github.com/Aron-HD/personal-website/issues/41) in [Aron-HD/personal-website](https://github.com/Aron-HD/personal-website)
-4. 🎉 Merged PR [#1](https://github.com/Aron-HD/joshhd-portfolio/pull/1) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-5. 💪 Opened PR [#1](https://github.com/Aron-HD/joshhd-portfolio/pull/1) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+1. ❗️ Opened issue [#1](https://github.com/Aron-HD/rest-api/issues/1) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
+2. ❗️ Opened issue [#3](https://github.com/Aron-HD/joshhd-portfolio/issues/3) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+3. ❗️ Opened issue [#2](https://github.com/Aron-HD/joshhd-portfolio/issues/2) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+4. ❗️ Opened issue [#41](https://github.com/Aron-HD/personal-website/issues/41) in [Aron-HD/personal-website](https://github.com/Aron-HD/personal-website)
+5. 🎉 Merged PR [#1](https://github.com/Aron-HD/joshhd-portfolio/pull/1) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
 <!--END_SECTION:activity-->
 
 <!--
