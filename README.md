@@ -60,11 +60,11 @@ I am passionate about learning new technologies and using them to build apps, co
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#42](https://github.com/Aron-HD/personal-website/pull/42) in [Aron-HD/personal-website](https://github.com/Aron-HD/personal-website)
-2. 💪 Opened PR [#42](https://github.com/Aron-HD/personal-website/pull/42) in [Aron-HD/personal-website](https://github.com/Aron-HD/personal-website)
-3. ❗️ Opened issue [#2](https://github.com/Aron-HD/rest-api/issues/2) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
-4. ❗️ Opened issue [#1](https://github.com/Aron-HD/rest-api/issues/1) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
-5. ❗️ Opened issue [#3](https://github.com/Aron-HD/joshhd-portfolio/issues/3) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+1. ❗️ Opened issue [#4](https://github.com/TomDoesTech/REST-API-Tutorial-Updated/issues/4) in [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated)
+2. 🎉 Merged PR [#42](https://github.com/Aron-HD/personal-website/pull/42) in [Aron-HD/personal-website](https://github.com/Aron-HD/personal-website)
+3. 💪 Opened PR [#42](https://github.com/Aron-HD/personal-website/pull/42) in [Aron-HD/personal-website](https://github.com/Aron-HD/personal-website)
+4. ❗️ Opened issue [#2](https://github.com/Aron-HD/rest-api/issues/2) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
+5. ❗️ Opened issue [#1](https://github.com/Aron-HD/rest-api/issues/1) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
 <!--END_SECTION:activity-->
 
 <!--
