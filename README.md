@@ -67,11 +67,11 @@ I am passionate about learning new technologies and using them to build apps, co
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#4](https://github.com/TomDoesTech/REST-API-Tutorial-Updated/issues/4) in [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated)
-2. 🗣 Commented on [#4](https://github.com/Aron-HD/rest-api/issues/4) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
-3. 💪 Opened PR [#10](https://github.com/Aron-HD/joshhd-portfolio/pull/10) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-4. 🎉 Merged PR [#9](https://github.com/Aron-HD/joshhd-portfolio/pull/9) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-5. ❗️ Closed issue [#8](https://github.com/Aron-HD/joshhd-portfolio/issues/8) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+1. 💪 Opened PR [#5](https://github.com/TomDoesTech/REST-API-Tutorial-Updated/pull/5) in [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated)
+2. 🗣 Commented on [#4](https://github.com/TomDoesTech/REST-API-Tutorial-Updated/issues/4) in [TomDoesTech/REST-API-Tutorial-Updated](https://github.com/TomDoesTech/REST-API-Tutorial-Updated)
+3. 🗣 Commented on [#4](https://github.com/Aron-HD/rest-api/issues/4) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
+4. 💪 Opened PR [#10](https://github.com/Aron-HD/joshhd-portfolio/pull/10) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+5. 🎉 Merged PR [#9](https://github.com/Aron-HD/joshhd-portfolio/pull/9) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
 <!--END_SECTION:activity-->
 
 <!--
