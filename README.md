@@ -36,6 +36,14 @@
 
 I am passionate about learning new technologies and using them to build apps, command-line tools and websites, automate processes and problem solve.
 
+#### Currently learning
+
+- .NET 5/6
+- Blazor WebAssembly
+- ASP.NET Core Web API
+- Entity Framework Core
+- Vue3
+
 </br>
 
 <table>
