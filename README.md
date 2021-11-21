@@ -38,11 +38,16 @@ I am passionate about learning new technologies and using them to build apps, co
 
 #### Currently learning
 
-- .NET 5/6
-- Blazor WebAssembly
+The stack for my role includes:
+
+- .NET 5/6 | .NET Core 3.1
+- ASP.NET Core Blazor WebAssembly
 - ASP.NET Core Web API
 - Entity Framework Core
+- Microsoft SQL Server
+- SQL Server Management Studio
 - Vue3
+- Azure DevOps
 
 </br>
 
