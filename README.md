@@ -102,11 +102,11 @@ The stack for my role includes:
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#2](https://github.com/Aron-HD/cms-bot-gui/pull/2) in [Aron-HD/cms-bot-gui](https://github.com/Aron-HD/cms-bot-gui)
-2. 🗣 Commented on [#4](https://github.com/Aron-HD/rest-api/issues/4) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
-3. 🎉 Merged PR [#14](https://github.com/Aron-HD/joshhd-portfolio/pull/14) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-4. 💪 Opened PR [#14](https://github.com/Aron-HD/joshhd-portfolio/pull/14) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
-5. 🎉 Merged PR [#13](https://github.com/Aron-HD/joshhd-portfolio/pull/13) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+1. ❗️ Closed issue [#3](https://github.com/Aron-HD/joshhd-portfolio/issues/3) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+2. 🎉 Merged PR [#15](https://github.com/Aron-HD/joshhd-portfolio/pull/15) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+3. 💪 Opened PR [#15](https://github.com/Aron-HD/joshhd-portfolio/pull/15) in [Aron-HD/joshhd-portfolio](https://github.com/Aron-HD/joshhd-portfolio)
+4. 🎉 Merged PR [#2](https://github.com/Aron-HD/cms-bot-gui/pull/2) in [Aron-HD/cms-bot-gui](https://github.com/Aron-HD/cms-bot-gui)
+5. 🗣 Commented on [#4](https://github.com/Aron-HD/rest-api/issues/4) in [Aron-HD/rest-api](https://github.com/Aron-HD/rest-api)
 <!--END_SECTION:activity-->
 
 <!--
