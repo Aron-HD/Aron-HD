@@ -53,17 +53,14 @@ Databases & Query languages
 
 I am passionate about learning new technologies and using them to build apps, command-line tools and websites, automate processes and problem solve.
 
-#### Currently learning
+#### Current Stack
 
 The stack for my role includes:
 
 - .NET 5/6 | .NET Core 3.1
-- ASP.NET Core Blazor WebAssembly
-- ASP.NET Core Web API
 - Entity Framework Core
 - Microsoft SQL Server
-- SQL Server Management Studio
-- Vue3
+- Vue3 (TypeScript)
 - Azure DevOps
 
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
