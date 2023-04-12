@@ -57,10 +57,9 @@ I am passionate about learning new technologies and using them to build apps, co
 
 The stack for my role includes:
 
-- .NET 5/6 | .NET Core 3.1
-- Entity Framework Core
-- Microsoft SQL Server
-- Vue3 (TypeScript)
+- .NET 6 / 7
+- PowerShell 7
+- Azure Portal
 - Azure DevOps
 
 [![Visual Studio](https://img.shields.io/badge/--6C33AF?logo=visual%20studio)](https://visualstudio.microsoft.com/)
